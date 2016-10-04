@@ -12,6 +12,7 @@ import CoreData
 
 @available(iOS, introduced=10.0)
 @available(OSX, introduced=10.12)
+@available(tvOS, introduced=10.0)
 
 extension NSFetchRequestResult where Self: NSManagedObject {
     /**
